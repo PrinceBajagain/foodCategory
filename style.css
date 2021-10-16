@@ -1,0 +1,15 @@
+.card-container{
+    display: flex;
+}
+.card{
+    margin-left: 2vw;
+    margin-top: 6vh;
+}
+.card-body{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+}
+.card-body span{
+    margin-top: 4vh;
+}
